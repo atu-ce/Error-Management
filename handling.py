@@ -30,7 +30,7 @@ try:
 except:
     print("Yanlış değer girdiniz.")
 
-# Yöntem 4 -> Tüm hatalar için aynı mesaj ve hatayı öğrenemeyiz.
+# Yöntem 4 -> Tüm hatalar için aynı mesaj ve hatayı öğrenebiliriz.
 try:
     x = int(input("x: "))
     y = int(input("y: "))
